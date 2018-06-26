@@ -1,0 +1,131 @@
+.background_website {
+  background-color: Cornsilk;
+}
+
+
+#website_name {
+  color: Black;
+  font-family: cursive;
+  text-align: center;
+  font-size: 150px;
+
+  vertical-align: middle;
+  line-height: 620px;
+}
+
+header {
+  background-color: Cornsilk;
+  width: 100%;
+  height: 820px;
+}
+.R1 {
+   width: 33%;
+   float:left;
+   text-align: center;
+   overflow: hidden;
+ }
+
+.R2 {
+   margin-left: 33%;
+   width: 33%;
+   overflow: hidden;
+   text-align: center;
+ }
+
+ .R3 {
+   margin-left: 66%;
+   width: 33%;
+   overflow: hidden;
+   text-align: center;
+   margin-top: -7%;
+ }
+
+img {
+  float: right;
+  width: 35%;
+  margin-top: 70px;
+  padding-left: 10px;
+
+}
+
+
+
+p {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+h2 {
+  font-size: 40px;
+  margin-top: auto;
+  text-align: center;
+  padding-top: 12px;
+}
+
+h4 {
+  font-size: 28px;
+  color: #e6007a;
+}
+
+#Good_and_Evil {
+  background: LimeGreen;
+  padding-bottom: 1%;
+}
+
+p, h2, h4 {
+  margin-left: 7px;
+  font-family: sans-serif;
+
+}
+
+.button {
+  background-color: Cornsilk;
+  color: Black;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 28px;
+  height: 100px;
+  padding: 0 128px;
+  font-family: Arial;
+}
+.button:hover {
+  background-color: Black;
+  color: Cornsilk;
+  text-align: center;
+}
+#button2 {
+      padding: 0 127px 0 127px;
+}
+#Difficult_Decisions {
+  background-color: Deeppink;
+  padding-bottom: 1%;
+}
+
+.limegreen {
+  color: LimeGreen;
+}
+
+#quote2 {
+    color: ForestGreen;
+}
+
+a {
+  color: Blue;
+}
+
+iframe {
+  float: right;
+  width: 500px;
+  height: 275px;
+  padding-left: 10px;
+}
+
+#Limitations {
+  background-color: #33ffb1;
+  padding-bottom: 1%;
+}
+
+.pic {
+  margin-top: 80px;
+}
