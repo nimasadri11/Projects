@@ -58,7 +58,7 @@ def stocks():
             # executes the code once the week is over; that is once friday is reached.
             if day_index == 4:
                 # finds the maximum value in that week
-                max_day_value = min(this_week)
+                max_day_value = max(this_week)
                 # find the index of that week, which corresponds to what day of the week the maximum value was
                 max_day_index = this_week.index(max_day_value)
                 # adds 1 to that day of the week
